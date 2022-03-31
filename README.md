@@ -1,12 +1,14 @@
 [![MasterHead](https://github.com/dgrzelec/dgrzelec/blob/main/images/damniel_by_zelkeu.png)](https://github.com/dgrzelec)
 ### I am a student at *AGH UST in Cracow, Poland* and a programming addict.
 
-Currently, I am studying *Technical Physics* - my main field of interest is *computer- and nano-physics*. 
+Recently completed first stage of studies and obtained **Bachelor of Engineering in Technical Physics**, now going for **masters degree in computer physics**.
+My main field of interest is *computer- and nano-physics*, as well as complex systems (emergent behaviours). 
 
-As for now, I am focusing on learning **Fortran** and gaining more experience in **Python** programming.
 I am also a *math enthusiast*, passionate about numerical methods, code optimization, and so forth.
 
-Constantly looking for new challenges - *I am determined to gain my first commercial experience*.
+As for now, I am learning **Rust**.
+
+Constantly looking for new challenges - *currently working as an intern at Aptiv*.
 
 ### Technologies:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
