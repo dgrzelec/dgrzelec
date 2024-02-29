@@ -1,8 +1,10 @@
 [![MasterHead](https://github.com/dgrzelec/dgrzelec/blob/main/images/damniel_by_zelkeu.png)](https://github.com/dgrzelec)
-### I am a student at *AGH UST in Cracow, Poland* and a programming addict.
+### I am a Mulesoft developer at *Ericsson*, looking for a job opportunity as an Integration developer.
 
-In 2022 I have completed first stage of studies and obtained **Bachelor of Engineering in Technical Physics**, now going for **masters degree in computer physics**.
-My main field of interest is *computer- and nano-physics*, as well as complex systems (emergent behaviours). 
+My goal is to increase my skills in integration development and a general architecture of such applications. I can get my head around almost anything using my problem-solving focused mind.
+My main field of interest is *computer- and nano-physics*, as well as complex systems (emergent behaviours).\
+My hobbies include video games (souls-like f.e.), collecting OST on vinyl records, board games(!)...
+
 
 I am also a *math enthusiast*, passionate about numerical methods, code optimization, and so forth. Constantly looking for new challenges.
 
