@@ -1,5 +1,5 @@
 [![MasterHead](https://github.com/dgrzelec/dgrzelec/blob/main/images/damniel_by_zelkeu.png)](https://github.com/dgrzelec)
-### I am a Mulesoft developer at *Ericsson*, looking for a job opportunity as an Integration developer.
+### I am an Automation Delivery Consultant at *IBM*, learning Kubernetes, Red Hat Openshift and API management tools.
 
 My goal is to increase my skills in integration development and a general architecture of such applications. I can get my head around almost anything using my problem-solving focused mind.
 My main field of interest is *computer- and nano-physics*, as well as complex systems (emergent behaviours).\
